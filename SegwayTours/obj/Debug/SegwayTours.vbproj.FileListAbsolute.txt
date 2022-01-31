@@ -1,0 +1,12 @@
+c:\users\daniel\documents\visual studio 2015\Projects\SegwayTours\SegwayTours\bin\Debug\SegwayTours.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\SegwayTours\SegwayTours\bin\Debug\SegwayTours.exe
+c:\users\daniel\documents\visual studio 2015\Projects\SegwayTours\SegwayTours\bin\Debug\SegwayTours.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\SegwayTours\SegwayTours\bin\Debug\SegwayTours.xml
+c:\users\daniel\documents\visual studio 2015\Projects\SegwayTours\SegwayTours\obj\Debug\SegwayTours.vbprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\SegwayTours\SegwayTours\obj\Debug\SegwayTours.Form1.resources
+c:\users\daniel\documents\visual studio 2015\Projects\SegwayTours\SegwayTours\obj\Debug\SegwayTours.Resources.resources
+c:\users\daniel\documents\visual studio 2015\Projects\SegwayTours\SegwayTours\obj\Debug\SegwayTours.vbproj.GenerateResource.Cache
+c:\users\daniel\documents\visual studio 2015\Projects\SegwayTours\SegwayTours\obj\Debug\SegwayTours.exe
+c:\users\daniel\documents\visual studio 2015\Projects\SegwayTours\SegwayTours\obj\Debug\SegwayTours.xml
+c:\users\daniel\documents\visual studio 2015\Projects\SegwayTours\SegwayTours\obj\Debug\SegwayTours.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SegwayTours\SegwayTours\obj\Debug\SegwayTours.loginForm.resources
